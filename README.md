@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/madusheshant" target="blank"><img src="https://img.shields.io/twitter/follow/madusheshant?logo=twitter&style=for-the-badge" alt="madusheshant" /></a> </p>
 
-- 🔭 I’m currently working on **A project called Dental Management System with Image processing system**
+- 🔭 I’m currently working on **A project "Dental Management System with Image processing" **
 
 - 🌱 I’m currently learning **Machine Learning an Front-end Develop Area**
 
